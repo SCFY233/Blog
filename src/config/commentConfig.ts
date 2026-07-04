@@ -44,7 +44,7 @@ export const commentConfig: CommentConfig = {
 	// artalk评论系统配置
 	artalk: {
 		// artalk后端程序 API 地址
-		server: "http://v4.byscfy.top:23366/",
+		server: "https://v4.byscfy.top:23377/",
 		// 设置 Artalk 语言
 		locale: "zh-CN",
 		// 是否启用文章访问量统计功能

@@ -16,16 +16,14 @@ export const siteConfig: SiteConfig = {
 
 	// 站点描述
 	description:
-		"掌握一定Minecraft服务器配置,有时折腾刷机,且在开发与日常工具选择上追求高效的小透明.",
+		"掌握一定Minecraft服务器配置,有时折腾刷机,且在开发与日常工具选择上追求高效的小透明的博客.",
 	// 站点关键词
 	keywords: [
 		"春风",
 		"是春风呀233",
 		"SCFY233",
 		"SCFY",
-		"blog",
 		"春风博客",
-		"Firfly",
 		"博客",
 		"技术博客",
 	],
