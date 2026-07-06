@@ -1,23 +1,33 @@
-# 关于我 / About Me
+# 关于我
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 **是春风呀233**（SCFY233），一个掌握一定 Minecraft 服务器配置、会部分Node.js、偶尔折腾刷机的小透明。
 
-## 🛠️ 关于本站
+## 关于本站
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+本站 **"春风博客"** 使用以 [Firefly](https://github.com/CuteLeaf/Firefly) 的主题的Astro框架。
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+- **博客地址：** [https://scfy233.cn](https://scfy233.cn)
+- **建站时间：** 2026-07-06
+- **内容许可：** 本站文章采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议进行许可。
 
+## 联系方式
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+- **GitHub：** [Github主页](https://github.com/SCFY233)
+- **QQ：** [点击加我QQ](https://qm.qq.com/q/nDuNrj5otO)
+- **邮箱：** [admin@mail.byscfy.top](mailto:admin@mail.byscfy.top)
+- **RSS：** [RSS订阅](/rss/)
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
+## 站点功能
 
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
+本站目前开放以下功能页面：
 
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
+- 留言板 - 欢迎留下你的足迹
+- 友情链接 - 交换友链，共同进步
+- 打赏支持 - 如果觉得内容不错，欢迎支持博主
 
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
+## 致谢
+
+本站主题基于以下开源项目，感谢它们为社区做出的贡献：
 
 ::github{repo="CuteLeaf/Firefly"}
 
@@ -26,4 +36,3 @@
 ---
 
 *感谢你的来访！希望在这里能找到对你有用的内容！*
-

@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点描述
 	description:
-		"掌握一定Minecraft服务器配置,有时折腾刷机,且在开发与日常工具选择上追求高效的小透明的博客.",
+		"一个掌握一定 Minecraft 服务器配置、会部分Node.js、偶尔折腾刷机的小透明的博客.",
 	// 站点关键词
 	keywords: [
 		"春风",
